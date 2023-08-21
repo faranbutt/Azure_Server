@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d6bce0ba-839a-46c7-b785-d9a5519e65cd/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/eye-classifier-app",
+    "appService.deploySubpath": "."
+}
