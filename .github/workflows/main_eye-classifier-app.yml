@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'eye-classifier-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52C77A9B0AB04BB686CCD7B3DDE35FBA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14B01F708CB443709528773949A0854E }}
